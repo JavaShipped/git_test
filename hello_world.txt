@@ -1,0 +1,1 @@
+hello world, I only configured 1gb of ram into the VM I'm using because I'm an idiot.
